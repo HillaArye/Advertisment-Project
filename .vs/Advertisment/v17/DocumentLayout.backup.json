@@ -1,0 +1,641 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment\\controllers\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|solutionrelative:advertisment\\controllers\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment\\controllers\\advertisercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|solutionrelative:advertisment\\controllers\\advertisercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment\\controllers\\advertismentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|solutionrelative:advertisment\\controllers\\advertismentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A928046C-E5ED-430E-BCC7-D9F4C3BD232B}|Advertisment.Service\\Advertisment.Service.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.service\\adverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A928046C-E5ED-430E-BCC7-D9F4C3BD232B}|Advertisment.Service\\Advertisment.Service.csproj|solutionrelative:advertisment.service\\adverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A928046C-E5ED-430E-BCC7-D9F4C3BD232B}|Advertisment.Service\\Advertisment.Service.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.service\\advertiserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A928046C-E5ED-430E-BCC7-D9F4C3BD232B}|Advertisment.Service\\Advertisment.Service.csproj|solutionrelative:advertisment.service\\advertiserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A928046C-E5ED-430E-BCC7-D9F4C3BD232B}|Advertisment.Service\\Advertisment.Service.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.service\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A928046C-E5ED-430E-BCC7-D9F4C3BD232B}|Advertisment.Service\\Advertisment.Service.csproj|solutionrelative:advertisment.service\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.core\\repositories\\irouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|solutionrelative:advertisment.core\\repositories\\irouterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.data\\repositories\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|solutionrelative:advertisment.data\\repositories\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.core\\repositories\\iadvertiserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|solutionrelative:advertisment.core\\repositories\\iadvertiserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.data\\repositories\\advertiserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|solutionrelative:advertisment.data\\repositories\\advertiserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.data\\repositories\\adverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|solutionrelative:advertisment.data\\repositories\\adverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.core\\services\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|solutionrelative:advertisment.core\\services\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.core\\services\\iadvertiserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|solutionrelative:advertisment.core\\services\\iadvertiserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.core\\services\\iadverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|solutionrelative:advertisment.core\\services\\iadverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.core\\repositories\\iadverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|solutionrelative:advertisment.core\\repositories\\iadverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|solutionrelative:advertisment\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.core\\entities\\advertiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|solutionrelative:advertisment.core\\entities\\advertiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.core\\dtos\\adverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|solutionrelative:advertisment.core\\dtos\\adverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment\\models\\routepostputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|solutionrelative:advertisment\\models\\routepostputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment\\models\\advertiserpostputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|solutionrelative:advertisment\\models\\advertiserpostputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment\\models\\adverpostputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|solutionrelative:advertisment\\models\\adverpostputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.core\\dtos\\advertiserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|solutionrelative:advertisment.core\\dtos\\advertiserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.core\\dtos\\routedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|solutionrelative:advertisment.core\\dtos\\routedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|solutionrelative:advertisment.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|solutionrelative:advertisment.core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|solutionrelative:advertisment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A928046C-E5ED-430E-BCC7-D9F4C3BD232B}|Advertisment.Service\\Advertisment.Service.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.service\\advertisment.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A928046C-E5ED-430E-BCC7-D9F4C3BD232B}|Advertisment.Service\\Advertisment.Service.csproj|solutionrelative:advertisment.service\\advertisment.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.core\\entities\\adver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|solutionrelative:advertisment.core\\entities\\adver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.core\\advertisment.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|solutionrelative:advertisment.core\\advertisment.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.data\\advertisment.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|solutionrelative:advertisment.data\\advertisment.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|d:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\netcore\\16.01.26\\advertisment\\advertisment.data\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|solutionrelative:advertisment.data\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestRoutee\\RouteTestController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestRoutee\\FakeContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertiser\\AdvertiserTestController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertiser\\FakeContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertiser\\TestAdvertiser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertisment\\TestAdvertisment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertisment\\AdvertiserTestController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertisment\\RouteTestController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertisment\\FakeContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertisment\\AdvertismentTestController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 595,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Advertisment.Service.csproj",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Service\\Advertisment.Service.csproj",
+              "RelativeDocumentMoniker": "Advertisment.Service\\Advertisment.Service.csproj",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Service\\Advertisment.Service.csproj",
+              "RelativeToolTip": "Advertisment.Service\\Advertisment.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T12:41:58.324Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdverService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Service\\AdverService.cs",
+              "RelativeDocumentMoniker": "Advertisment.Service\\AdverService.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Service\\AdverService.cs",
+              "RelativeToolTip": "Advertisment.Service\\AdverService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:40:14.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdvertismentController.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment\\Controllers\\AdvertismentController.cs",
+              "RelativeDocumentMoniker": "Advertisment\\Controllers\\AdvertismentController.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment\\Controllers\\AdvertismentController.cs",
+              "RelativeToolTip": "Advertisment\\Controllers\\AdvertismentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:44:24.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdvertiserController.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment\\Controllers\\AdvertiserController.cs",
+              "RelativeDocumentMoniker": "Advertisment\\Controllers\\AdvertiserController.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment\\Controllers\\AdvertiserController.cs",
+              "RelativeToolTip": "Advertisment\\Controllers\\AdvertiserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:42:00.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteController.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment\\Controllers\\RouteController.cs",
+              "RelativeDocumentMoniker": "Advertisment\\Controllers\\RouteController.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment\\Controllers\\RouteController.cs",
+              "RelativeToolTip": "Advertisment\\Controllers\\RouteController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:37:43.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RouteRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Data\\Repositories\\RouteRepository.cs",
+              "RelativeDocumentMoniker": "Advertisment.Data\\Repositories\\RouteRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Data\\Repositories\\RouteRepository.cs",
+              "RelativeToolTip": "Advertisment.Data\\Repositories\\RouteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:42:33.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Service\\RouteService.cs",
+              "RelativeDocumentMoniker": "Advertisment.Service\\RouteService.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Service\\RouteService.cs",
+              "RelativeToolTip": "Advertisment.Service\\RouteService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:40:04.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdvertiserService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Service\\AdvertiserService.cs",
+              "RelativeDocumentMoniker": "Advertisment.Service\\AdvertiserService.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Service\\AdvertiserService.cs",
+              "RelativeToolTip": "Advertisment.Service\\AdvertiserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:40:05.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRouteRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Repositories\\IRouteRepository.cs",
+              "RelativeDocumentMoniker": "Advertisment.Core\\Repositories\\IRouteRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Repositories\\IRouteRepository.cs",
+              "RelativeToolTip": "Advertisment.Core\\Repositories\\IRouteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:44:25.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAdvertiserRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Repositories\\IAdvertiserRepository.cs",
+              "RelativeDocumentMoniker": "Advertisment.Core\\Repositories\\IAdvertiserRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Repositories\\IAdvertiserRepository.cs",
+              "RelativeToolTip": "Advertisment.Core\\Repositories\\IAdvertiserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T20:21:24.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdvertiserRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Data\\Repositories\\AdvertiserRepository.cs",
+              "RelativeDocumentMoniker": "Advertisment.Data\\Repositories\\AdvertiserRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Data\\Repositories\\AdvertiserRepository.cs",
+              "RelativeToolTip": "Advertisment.Data\\Repositories\\AdvertiserRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:18:16.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdverRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Data\\Repositories\\AdverRepository.cs",
+              "RelativeDocumentMoniker": "Advertisment.Data\\Repositories\\AdverRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Data\\Repositories\\AdverRepository.cs",
+              "RelativeToolTip": "Advertisment.Data\\Repositories\\AdverRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T12:20:15.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRouteService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Services\\IRouteService.cs",
+              "RelativeDocumentMoniker": "Advertisment.Core\\Services\\IRouteService.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Services\\IRouteService.cs",
+              "RelativeToolTip": "Advertisment.Core\\Services\\IRouteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:51:54.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAdvertiserService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Services\\IAdvertiserService.cs",
+              "RelativeDocumentMoniker": "Advertisment.Core\\Services\\IAdvertiserService.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Services\\IAdvertiserService.cs",
+              "RelativeToolTip": "Advertisment.Core\\Services\\IAdvertiserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T21:39:10.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAdverService.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Services\\IAdverService.cs",
+              "RelativeDocumentMoniker": "Advertisment.Core\\Services\\IAdverService.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Services\\IAdverService.cs",
+              "RelativeToolTip": "Advertisment.Core\\Services\\IAdverService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:11:30.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAdverRepository.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Repositories\\IAdverRepository.cs",
+              "RelativeDocumentMoniker": "Advertisment.Core\\Repositories\\IAdverRepository.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Repositories\\IAdverRepository.cs",
+              "RelativeToolTip": "Advertisment.Core\\Repositories\\IAdverRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:14:27.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Advertisment\\MappingProfile.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment\\MappingProfile.cs",
+              "RelativeToolTip": "Advertisment\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:39:07.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Advertiser.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Entities\\Advertiser.cs",
+              "RelativeDocumentMoniker": "Advertisment.Core\\Entities\\Advertiser.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Entities\\Advertiser.cs",
+              "RelativeToolTip": "Advertisment.Core\\Entities\\Advertiser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:41:03.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdverDTO.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\DTOs\\AdverDTO.cs",
+              "RelativeDocumentMoniker": "Advertisment.Core\\DTOs\\AdverDTO.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\DTOs\\AdverDTO.cs",
+              "RelativeToolTip": "Advertisment.Core\\DTOs\\AdverDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:40:43.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoutePostPutModel.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment\\Models\\RoutePostPutModel.cs",
+              "RelativeDocumentMoniker": "Advertisment\\Models\\RoutePostPutModel.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment\\Models\\RoutePostPutModel.cs",
+              "RelativeToolTip": "Advertisment\\Models\\RoutePostPutModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T21:57:50.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdvertiserPostPutModel.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment\\Models\\AdvertiserPostPutModel.cs",
+              "RelativeDocumentMoniker": "Advertisment\\Models\\AdvertiserPostPutModel.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment\\Models\\AdvertiserPostPutModel.cs",
+              "RelativeToolTip": "Advertisment\\Models\\AdvertiserPostPutModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T21:57:44.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdverPostPutModel.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment\\Models\\AdverPostPutModel.cs",
+              "RelativeDocumentMoniker": "Advertisment\\Models\\AdverPostPutModel.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment\\Models\\AdverPostPutModel.cs",
+              "RelativeToolTip": "Advertisment\\Models\\AdverPostPutModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T21:57:39.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdvertiserDTO.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\DTOs\\AdvertiserDTO.cs",
+              "RelativeDocumentMoniker": "Advertisment.Core\\DTOs\\AdvertiserDTO.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\DTOs\\AdvertiserDTO.cs",
+              "RelativeToolTip": "Advertisment.Core\\DTOs\\AdvertiserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:40:53.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RouteDTO.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\DTOs\\RouteDTO.cs",
+              "RelativeDocumentMoniker": "Advertisment.Core\\DTOs\\RouteDTO.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\DTOs\\RouteDTO.cs",
+              "RelativeToolTip": "Advertisment.Core\\DTOs\\RouteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:41:57.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Advertisment.Data\\DataContext.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Data\\DataContext.cs",
+              "RelativeToolTip": "Advertisment.Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:52:11.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment\\Program.cs",
+              "RelativeDocumentMoniker": "Advertisment\\Program.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment\\Program.cs",
+              "RelativeToolTip": "Advertisment\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T12:28:25.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Advertisment.Core\\MappingProfile.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\MappingProfile.cs",
+              "RelativeToolTip": "Advertisment.Core\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:39:34.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Adver.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Entities\\Adver.cs",
+              "RelativeDocumentMoniker": "Advertisment.Core\\Entities\\Adver.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Entities\\Adver.cs",
+              "RelativeToolTip": "Advertisment.Core\\Entities\\Adver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:25:37.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Advertisment.Core.csproj",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Advertisment.Core.csproj",
+              "RelativeDocumentMoniker": "Advertisment.Core\\Advertisment.Core.csproj",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Core\\Advertisment.Core.csproj",
+              "RelativeToolTip": "Advertisment.Core\\Advertisment.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T12:28:47.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Advertisment.Data.csproj",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Data\\Advertisment.Data.csproj",
+              "RelativeDocumentMoniker": "Advertisment.Data\\Advertisment.Data.csproj",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Data\\Advertisment.Data.csproj",
+              "RelativeToolTip": "Advertisment.Data\\Advertisment.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-13T12:31:52.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Data\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Advertisment.Data\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "D:\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\NetCore\\16.01.26\\Advertisment\\Advertisment.Data\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "Advertisment.Data\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T10:59:12.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TestAdvertisment.csproj",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertisment\\TestAdvertisment.csproj",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertisment\\TestAdvertisment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T14:08:56.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AdvertiserTestController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertisment\\AdvertiserTestController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertisment\\AdvertiserTestController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:04:32.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RouteTestController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertisment\\RouteTestController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertisment\\RouteTestController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:04:22.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FakeContext.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertisment\\FakeContext.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertisment\\FakeContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:39:02.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AdvertismentTestController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertisment\\AdvertismentTestController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertisment\\AdvertismentTestController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:37:37.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdvertiserTestController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertiser\\AdvertiserTestController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertiser\\AdvertiserTestController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:37:35.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FakeContext.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestRoutee\\FakeContext.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestRoutee\\FakeContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:42:26.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RouteTestController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestRoutee\\RouteTestController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestRoutee\\RouteTestController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:50:20.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FakeContext.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertiser\\FakeContext.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertiser\\FakeContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:42:53.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TestAdvertiser.csproj",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertiser\\TestAdvertiser.csproj",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\9.11.2025\\Advertisment\\TestAdvertiser\\TestAdvertiser.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T13:50:51.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

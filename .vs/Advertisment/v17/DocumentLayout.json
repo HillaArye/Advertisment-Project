@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\advertisment\\advertisment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|solutionrelative:advertisment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\advertisment\\advertisment\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|solutionrelative:advertisment\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\advertisment\\advertisment\\advertisment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|solutionrelative:advertisment\\advertisment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\advertisment\\advertisment\\middleware\\happythursdaymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|solutionrelative:advertisment\\middleware\\happythursdaymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\advertisment\\advertisment.data\\advertisment.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|solutionrelative:advertisment.data\\advertisment.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 595,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment\\Extensions.cs",
+              "RelativeDocumentMoniker": "Advertisment\\Extensions.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment\\Extensions.cs",
+              "RelativeToolTip": "Advertisment\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T12:33:57.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment\\Program.cs",
+              "RelativeDocumentMoniker": "Advertisment\\Program.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment\\Program.cs",
+              "RelativeToolTip": "Advertisment\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T12:27:41.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HappyThursdayMiddleware.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment\\Middleware\\HappyThursdayMiddleware.cs",
+              "RelativeDocumentMoniker": "Advertisment\\Middleware\\HappyThursdayMiddleware.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment\\Middleware\\HappyThursdayMiddleware.cs",
+              "RelativeToolTip": "Advertisment\\Middleware\\HappyThursdayMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T12:21:06.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Advertisment",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment\\Advertisment.csproj",
+              "RelativeDocumentMoniker": "Advertisment\\Advertisment.csproj",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment\\Advertisment.csproj",
+              "RelativeToolTip": "Advertisment\\Advertisment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T12:12:54.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Advertisment.Data",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment.Data\\Advertisment.Data.csproj",
+              "RelativeDocumentMoniker": "Advertisment.Data\\Advertisment.Data.csproj",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment.Data\\Advertisment.Data.csproj",
+              "RelativeToolTip": "Advertisment.Data\\Advertisment.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T12:14:39.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
