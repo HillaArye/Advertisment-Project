@@ -24,16 +24,18 @@ namespace Advertisment.Data.Repositories
 
         public async Task<Adver> GetByIdAsync(int id)
         {
-            return await _context.advers.FindAsync(a => a.id == id);
+            return await _context.advers.FirstAsync(a => a.id == id);
         }
         public async Task<Adver> AddAdverAsync(Adver adver)
         {
            await _context.advers.AddAsync(adver);
+            await SaveAsync();
             return adver;
         }
         public async Task<int> GetByIndexAsync(int id)
         {
-            return await _context.advers.ToList().FindIndexAsync(a => a.id == id);
+            var list = await _context.advers.ToListAsync();
+            return list.FindIndex(a => a.id == id);
         }
 
 
@@ -45,7 +47,7 @@ namespace Advertisment.Data.Repositories
             a.start=adver.start;
             a.end=adver.end;
             a.desc=adver.desc;
-
+            await SaveAsync();
             return a;
         }
         public async Task SaveAsync()

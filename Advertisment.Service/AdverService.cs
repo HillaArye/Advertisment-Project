@@ -28,10 +28,14 @@ namespace Advertisment.Service
         public async Task AddAdverAsync(Adver adver)
         {
             await _adverRepository.AddAdverAsync(adver);
+            await _adverRepository.SaveAsync();
+
+
         }
         public async Task<Adver> UpdateAdverAsync(int id,Adver adver)
         {
             await _adverRepository.UpdateAdverAsync(id, adver);
+            await _adverRepository.SaveAsync();
             return adver;
         }
     }

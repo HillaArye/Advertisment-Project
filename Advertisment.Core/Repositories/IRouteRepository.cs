@@ -13,7 +13,7 @@ namespace Advertisment.Core.Repositories
         public Task<Route> GetByIdAsync(int id);
         public Task<Route> AddRouteAsync(Route route);
         public Task<Route> UpdateRouteAsync(Route route);
-        public Task<Route> DeleteRouteAsync(Route route);
+        public Task<Route> DeleteRoute(Route route);
         public Task SaveAsync();
 
 

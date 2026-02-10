@@ -10,3 +10,16 @@ T:\Group B\NetCore\הילה אריה\9.11.2025\Advertisment\Advertisment.Core\ob
 T:\Group B\NetCore\הילה אריה\9.11.2025\Advertisment\Advertisment.Core\obj\Debug\net8.0\Advertisment.Core.pdb
 T:\Group B\NetCore\הילה אריה\9.11.2025\Advertisment\Advertisment.Core\obj\Debug\net8.0\ref\Advertisment.Core.dll
 T:\Group B\NetCore\הילה אריה\9.11.2025\Advertisment\Advertisment.Core\obj\Debug\net8.0\Advertisment.Core.csproj.AssemblyReference.cache
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Core\bin\Debug\net8.0\Advertisment.Core.deps.json
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Core\bin\Debug\net8.0\Advertisment.Core.dll
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Core\bin\Debug\net8.0\Advertisment.Core.pdb
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Core\obj\Debug\net8.0\Advertisment.Core.csproj.AssemblyReference.cache
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Core\obj\Debug\net8.0\Advertisment.Core.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Core\obj\Debug\net8.0\Advertisment.Core.AssemblyInfoInputs.cache
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Core\obj\Debug\net8.0\Advertisment.Core.AssemblyInfo.cs
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Core\obj\Debug\net8.0\Advertisment.Core.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Core\obj\Debug\net8.0\Advertisment.Core.sourcelink.json
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Core\obj\Debug\net8.0\Advertisment.Core.dll
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Core\obj\Debug\net8.0\refint\Advertisment.Core.dll
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Core\obj\Debug\net8.0\Advertisment.Core.pdb
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Core\obj\Debug\net8.0\ref\Advertisment.Core.dll

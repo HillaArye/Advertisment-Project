@@ -39,7 +39,7 @@ namespace Advertisment.Service
 
         public async Task<Route> DeleteRouteAsync(Route route)
         {
-            await _routeRepository.DeleteRouteAsync(route);
+            await _routeRepository.DeleteRoute(route);
             return route;
         }
 

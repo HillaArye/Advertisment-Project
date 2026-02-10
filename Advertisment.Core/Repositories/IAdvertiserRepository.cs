@@ -14,7 +14,7 @@ namespace Advertisment.Core.Repositories
         public Task<Advertiser> GetByIdAsync(int id);
         public Task<Advertiser> AddAdverAsync(Advertiser advertiser);
         public Task<Advertiser> UpdateAdvertiserAsync(int id,Advertiser advertiser);
-        public Task<Advertiser> DeleteAdvertiserAsync(Advertiser advertiser);
+        public Task<Advertiser> DeleteAdvertiser(Advertiser advertiser);
         public Task SaveAsync();
 
     }

@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "T:\\Group B\\NetCore\\הילה אריה\\16.01.26\\Advertisment\\Advertisment.Core\\Advertisment.Core.csproj",
+      "projectUniqueName": "T:\\Group B\\NetCore\\הילה אריה\\‏‏תיקיה חדשה\\Advertisment-Project\\Advertisment.Core\\Advertisment.Core.csproj",
       "projectName": "Advertisment.Core",
-      "projectPath": "T:\\Group B\\NetCore\\הילה אריה\\16.01.26\\Advertisment\\Advertisment.Core\\Advertisment.Core.csproj",
+      "projectPath": "T:\\Group B\\NetCore\\הילה אריה\\‏‏תיקיה חדשה\\Advertisment-Project\\Advertisment.Core\\Advertisment.Core.csproj",
       "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-      "outputPath": "T:\\Group B\\NetCore\\הילה אריה\\16.01.26\\Advertisment\\Advertisment.Core\\obj\\",
+      "outputPath": "T:\\Group B\\NetCore\\הילה אריה\\‏‏תיקיה חדשה\\Advertisment-Project\\Advertisment.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

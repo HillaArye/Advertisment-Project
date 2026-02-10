@@ -41,7 +41,8 @@ namespace Advertisment.Service
 
         public async Task<Advertiser> DeleteAdvertiserAsync(Advertiser advertiser)
         {
-            await _advertiserRepository.DeleteAdvertiserAsync(advertiser);
+             _advertiserRepository.DeleteAdvertiser(advertiser);
+
             return advertiser;
         }
 

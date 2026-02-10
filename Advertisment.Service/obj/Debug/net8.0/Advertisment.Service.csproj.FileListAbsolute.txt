@@ -13,3 +13,19 @@ T:\Group B\NetCore\הילה אריה\9.11.2025\Advertisment\Advertisment.Service
 T:\Group B\NetCore\הילה אריה\9.11.2025\Advertisment\Advertisment.Service\obj\Debug\net8.0\refint\Advertisment.Service.dll
 T:\Group B\NetCore\הילה אריה\9.11.2025\Advertisment\Advertisment.Service\obj\Debug\net8.0\Advertisment.Service.pdb
 T:\Group B\NetCore\הילה אריה\9.11.2025\Advertisment\Advertisment.Service\obj\Debug\net8.0\ref\Advertisment.Service.dll
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Service\bin\Debug\net8.0\Advertisment.Service.deps.json
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Service\bin\Debug\net8.0\Advertisment.Service.dll
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Service\bin\Debug\net8.0\Advertisment.Service.pdb
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Service\bin\Debug\net8.0\Advertisment.Core.dll
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Service\bin\Debug\net8.0\Advertisment.Core.pdb
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Service\obj\Debug\net8.0\Advertisment.Service.csproj.AssemblyReference.cache
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Service\obj\Debug\net8.0\Advertisment.Service.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Service\obj\Debug\net8.0\Advertisment.Service.AssemblyInfoInputs.cache
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Service\obj\Debug\net8.0\Advertisment.Service.AssemblyInfo.cs
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Service\obj\Debug\net8.0\Advertisment.Service.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Service\obj\Debug\net8.0\Advertisment.Service.sourcelink.json
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Service\obj\Debug\net8.0\Advertis.D5DCDA14.Up2Date
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Service\obj\Debug\net8.0\Advertisment.Service.dll
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Service\obj\Debug\net8.0\refint\Advertisment.Service.dll
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Service\obj\Debug\net8.0\Advertisment.Service.pdb
+T:\Group B\NetCore\הילה אריה\‏‏תיקיה חדשה\Advertisment-Project\Advertisment.Service\obj\Debug\net8.0\ref\Advertisment.Service.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YFzpvtJwbVk=",
+  "dgSpecHash": "l9D/Hepyyng=",
   "success": true,
-  "projectFilePath": "T:\\Group B\\NetCore\\הילה אריה\\16.01.26\\Advertisment\\Advertisment.Core\\Advertisment.Core.csproj",
+  "projectFilePath": "T:\\Group B\\NetCore\\הילה אריה\\‏‏תיקיה חדשה\\Advertisment-Project\\Advertisment.Core\\Advertisment.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\student\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"

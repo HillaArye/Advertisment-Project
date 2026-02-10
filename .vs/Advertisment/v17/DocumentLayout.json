@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\",
+  "WorkspaceRootPath": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advertisment-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\advertisment\\advertisment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|solutionrelative:advertisment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advertisment-project\\advertisment.data\\repositories\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|solutionrelative:advertisment.data\\repositories\\routerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\advertisment\\advertisment\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|solutionrelative:advertisment\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advertisment-project\\advertisment.data\\repositories\\advertiserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|solutionrelative:advertisment.data\\repositories\\advertiserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\advertisment\\advertisment\\advertisment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|solutionrelative:advertisment\\advertisment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advertisment-project\\advertisment.data\\repositories\\adverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|solutionrelative:advertisment.data\\repositories\\adverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\advertisment\\advertisment\\middleware\\happythursdaymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{837CEFFB-A6B5-451C-92CC-FD69665F5C85}|Advertisment\\Advertisment.csproj|solutionrelative:advertisment\\middleware\\happythursdaymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A928046C-E5ED-430E-BCC7-D9F4C3BD232B}|Advertisment.Service\\Advertisment.Service.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advertisment-project\\advertisment.service\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A928046C-E5ED-430E-BCC7-D9F4C3BD232B}|Advertisment.Service\\Advertisment.Service.csproj|solutionrelative:advertisment.service\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\advertisment\\advertisment.data\\advertisment.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3714B929-2CB5-4FA8-8CF3-52038A39ED9A}|Advertisment.Data\\Advertisment.Data.csproj|solutionrelative:advertisment.data\\advertisment.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advertisment-project\\advertisment.core\\repositories\\iadvertiserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8672107B-68B5-47AA-BCCD-5A0E4FC3AA42}|Advertisment.Core\\Advertisment.Core.csproj|solutionrelative:advertisment.core\\repositories\\iadvertiserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A928046C-E5ED-430E-BCC7-D9F4C3BD232B}|Advertisment.Service\\Advertisment.Service.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advertisment-project\\advertisment.service\\advertiserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A928046C-E5ED-430E-BCC7-D9F4C3BD232B}|Advertisment.Service\\Advertisment.Service.csproj|solutionrelative:advertisment.service\\advertiserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A928046C-E5ED-430E-BCC7-D9F4C3BD232B}|Advertisment.Service\\Advertisment.Service.csproj|t:\\group b\\netcore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\advertisment-project\\advertisment.service\\adverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A928046C-E5ED-430E-BCC7-D9F4C3BD232B}|Advertisment.Service\\Advertisment.Service.csproj|solutionrelative:advertisment.service\\adverservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 595,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Extensions.cs",
-              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment\\Extensions.cs",
-              "RelativeDocumentMoniker": "Advertisment\\Extensions.cs",
-              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment\\Extensions.cs",
-              "RelativeToolTip": "Advertisment\\Extensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "DocumentIndex": 4,
+              "Title": "IAdvertiserRepository.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advertisment-Project\\Advertisment.Core\\Repositories\\IAdvertiserRepository.cs",
+              "RelativeDocumentMoniker": "Advertisment.Core\\Repositories\\IAdvertiserRepository.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advertisment-Project\\Advertisment.Core\\Repositories\\IAdvertiserRepository.cs",
+              "RelativeToolTip": "Advertisment.Core\\Repositories\\IAdvertiserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T12:33:57.806Z",
+              "WhenOpened": "2026-02-10T12:31:24.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment\\Program.cs",
-              "RelativeDocumentMoniker": "Advertisment\\Program.cs",
-              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment\\Program.cs",
-              "RelativeToolTip": "Advertisment\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC0AAAAeAAAA",
+              "DocumentIndex": 5,
+              "Title": "AdvertiserService.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advertisment-Project\\Advertisment.Service\\AdvertiserService.cs",
+              "RelativeDocumentMoniker": "Advertisment.Service\\AdvertiserService.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advertisment-Project\\Advertisment.Service\\AdvertiserService.cs",
+              "RelativeToolTip": "Advertisment.Service\\AdvertiserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T12:27:41.355Z",
+              "WhenOpened": "2026-02-10T12:30:09.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HappyThursdayMiddleware.cs",
-              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment\\Middleware\\HappyThursdayMiddleware.cs",
-              "RelativeDocumentMoniker": "Advertisment\\Middleware\\HappyThursdayMiddleware.cs",
-              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment\\Middleware\\HappyThursdayMiddleware.cs",
-              "RelativeToolTip": "Advertisment\\Middleware\\HappyThursdayMiddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Title": "RouteService.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advertisment-Project\\Advertisment.Service\\RouteService.cs",
+              "RelativeDocumentMoniker": "Advertisment.Service\\RouteService.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advertisment-Project\\Advertisment.Service\\RouteService.cs",
+              "RelativeToolTip": "Advertisment.Service\\RouteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T12:21:06.384Z",
+              "WhenOpened": "2026-02-10T12:30:04.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdverService.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advertisment-Project\\Advertisment.Service\\AdverService.cs",
+              "RelativeDocumentMoniker": "Advertisment.Service\\AdverService.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advertisment-Project\\Advertisment.Service\\AdverService.cs",
+              "RelativeToolTip": "Advertisment.Service\\AdverService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:29:46.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Advertisment",
-              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment\\Advertisment.csproj",
-              "RelativeDocumentMoniker": "Advertisment\\Advertisment.csproj",
-              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment\\Advertisment.csproj",
-              "RelativeToolTip": "Advertisment\\Advertisment.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-27T12:12:54.171Z",
+              "Title": "AdverRepository.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advertisment-Project\\Advertisment.Data\\Repositories\\AdverRepository.cs",
+              "RelativeDocumentMoniker": "Advertisment.Data\\Repositories\\AdverRepository.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advertisment-Project\\Advertisment.Data\\Repositories\\AdverRepository.cs",
+              "RelativeToolTip": "Advertisment.Data\\Repositories\\AdverRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:29:34.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Advertisment.Data",
-              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment.Data\\Advertisment.Data.csproj",
-              "RelativeDocumentMoniker": "Advertisment.Data\\Advertisment.Data.csproj",
-              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\16.01.26\\Advertisment\\Advertisment.Data\\Advertisment.Data.csproj",
-              "RelativeToolTip": "Advertisment.Data\\Advertisment.Data.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-27T12:14:39.757Z",
+              "DocumentIndex": 0,
+              "Title": "RouteRepository.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advertisment-Project\\Advertisment.Data\\Repositories\\RouteRepository.cs",
+              "RelativeDocumentMoniker": "Advertisment.Data\\Repositories\\RouteRepository.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advertisment-Project\\Advertisment.Data\\Repositories\\RouteRepository.cs",
+              "RelativeToolTip": "Advertisment.Data\\Repositories\\RouteRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:28:01.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdvertiserRepository.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advertisment-Project\\Advertisment.Data\\Repositories\\AdvertiserRepository.cs",
+              "RelativeDocumentMoniker": "Advertisment.Data\\Repositories\\AdvertiserRepository.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D4\u05D9\u05DC\u05D4 \u05D0\u05E8\u05D9\u05D4\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Advertisment-Project\\Advertisment.Data\\Repositories\\AdvertiserRepository.cs",
+              "RelativeToolTip": "Advertisment.Data\\Repositories\\AdvertiserRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:27:50.62Z",
               "EditorCaption": ""
             }
           ]
